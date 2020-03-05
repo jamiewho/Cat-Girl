@@ -59,7 +59,7 @@ bot.on("message", async message => {
       .setColor("#FF00FF")
       .setAuthor("Bot Info")
       .addField("Version", "b5")
-      .addField("Creator", "Jamd nickname(jamie) ?#7508")
+      .addField("Creator", "♡Jamie♡#7381")
       .addField("Language", "Discord.JS")
       .addField("Creation Date", "8/4/2019")
       .setFooter("Powered By Ai Hayasaka");
