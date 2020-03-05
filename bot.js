@@ -303,7 +303,7 @@ bot.on("message", async message => {
       .setAuthor("Bot Invite")
       .addField(
         "Link:",
-        "https://discordapp.com/api/oauth2/authorize?client_id=637680631916003349&permissions=8&scope=bot"
+        "Insert your link"
       )
       .setFooter(
         "Powered By Ai Hayasaka; " + " Requested by " + message.author.username
