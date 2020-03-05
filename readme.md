@@ -6,5 +6,7 @@ Ai Hayasaka is a simple discord bot made with discord.js Has many features like 
 
 -The api used for anime and roleplay commands is from nekos.life.
 
+-Join the discord to contact me https://discord.gg/VgqsyBE
+
 Made by ♡Jamie♡#7381 on Discord
 \ ゜ o ゜)ノ
