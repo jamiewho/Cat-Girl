@@ -72,4 +72,4 @@ process.on('unhandledRejection', rejection => {
     console.log(rejection); // This will log all other errors to console and stop the bot crashing once an error happens.
 });
 
-bot.login(process.env.DISCORD_TOKEN);
+bot.login(process.env.TOKEN);
