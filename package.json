@@ -1,29 +1,19 @@
 {
-  "//1": "describes your app and its dependencies",
-  "//2": "https://docs.npmjs.com/files/package.json",
-  "//3": "updating this file will download and update your packages",
-  "name": "bot",
-  "version": "b1",
-  "description": "eeeeeeeeeeeeeeee",
+  "name": "Ai-Hayasaka",
+  "description": "Ai Hayasaka is a simple discord bot made with discordjs/discord.js and has many fun features like anime, moderator, and even roleplay commands.",
+  "version": "1.0.0",
+  "repository": "https://github.com/JamieUwU/Ai-Hayasaka",
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
   },
   "dependencies": {
-    "express": "^4.17.1",
-    "discord.js": "^11.5.1",
-    "discord.music": "^6.0.0",
-    "ffmpeg": "^0.0.4",
-    "ytdl-core-discord": "^1.1.0",
-    "neko": "^1.1.2",
-    "nekolife.js": "^2.0.9",
-    "nekos.life": "^2.0.5",
-    "node.fetch": "^1.0.0",
-    "node-fetch": "^2.6.0",
-    "d.js-command-handler": "^1.4.5",
-    "request": "^2.88.2",
-    "snekfetch": "^4.0.4",
-    "fs": "^0.0.2"
+    "discord.js": "^11.5.1"
+  },
+  "devDependencies": {
+    "request": "^2.88.2"
   },
   "engines": {
     "node": "8.x"
+  }
+}
