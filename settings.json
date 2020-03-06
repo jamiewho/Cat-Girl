@@ -1,5 +1,5 @@
 {
-  "Token": process.env.DISCORD_TOKEN,
+  "Token": process.env.TOKEN,
   "Prefix": "%",
   "Streaming": true,
   "Activity": "Noels Sister - Type %help"
