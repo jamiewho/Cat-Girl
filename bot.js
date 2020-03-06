@@ -1,5 +1,5 @@
 const Discord = require('discord.js');
-const { Token, Prefix, Streaming } = require('./settings'); // Pull the Token, Prefix and Streaming boolean from the settings.json file.
+const { Token, Prefix, Streaming, Activity } = require('./settings'); // Pull the Token, Prefix and Streaming boolean from the settings.json file.
 const fs = require('fs');
 
 const bot = new Discord.Client({ disableEveryone: true });
@@ -17,7 +17,7 @@ bot.once('ready', async() => {
     console.log(`Bot is ready! ${bot.user.username}`);
 
     if (Streaming) {
-        await bot.user.setActivity("Noels Sister - Type %help");
+        await bot.user.setActivity(Activity);
         await bot.user.setStatus("online");
     }
 
