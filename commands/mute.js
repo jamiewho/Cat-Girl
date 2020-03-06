@@ -4,7 +4,7 @@ module.exports = {
     guildOnly: false,
     nsfw: false,
 
-    execute(bot, message, args) {
+    async execute(bot, message, args) {
         if (!message.member.hasPermission("MANAGE_MESSAGES")) return message.reply("You don't have `Manage_Messages` as a permission!");
         let mUser = message.guild.member(message.mentions.users.first() || message.guild.members.get(args[0]));
         if (!mUser) return message.channel.send("Couldn't find user to mute!");
