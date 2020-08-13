@@ -17,10 +17,10 @@ module.exports = {
             body
         ) {
             let henEmbed = new Discord.RichEmbed()
-                .setColor("#FF00FF")
+                .setColor("#f096ea")
                 .setAuthor("Trans Rights")
                 .setImage(body.url)
-                .setFooter("Trans Rights");
+                .setFooter("Powered by Cat");
             message.channel.send(henEmbed);
         });
     }

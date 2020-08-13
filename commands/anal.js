@@ -17,7 +17,7 @@ module.exports = {
             body
         ) {
             let henEmbed = new Discord.RichEmbed()
-                .setColor("#FF00FF")
+                .setColor("#f096ea")
                 .setAuthor(
                     message.author.username +
                     " has fucked " +
@@ -25,7 +25,7 @@ module.exports = {
                     " in the butt!"
                 )
                 .setImage(body.url)
-                .setFooter("Powered By Ai Hayasaka");
+                .setFooter("Powered By Cat");
             message.channel.send(henEmbed);
         });
     }

@@ -12,10 +12,10 @@ module.exports = {
 
         request({ url: "https://nekos.life/api/v2/8ball", json: true }, function(error, response, body) {
             let henEmbed = new Discord.RichEmbed()
-                .setColor("#FF00FF")
+                .setColor("#f096ea")
                 .setAuthor("8Ball Question: " + sayMessage)
                 .setImage(body.url)
-                .setFooter("Powered By Ai Hayasaka");
+                .setFooter("Powered By Cat");
             message.channel.send(henEmbed);
         });
     }

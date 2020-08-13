@@ -8,7 +8,7 @@ module.exports = {
 
     execute(bot, message, args) {
         let embed = new Discord.RichEmbed()
-            .setColor("#FF00FF")
+            .setColor("#f096ea")
             .setAuthor("Commands!")
             .addField("%help-general", "Basic Bot Commands")
             .addField("%help-fun", "Fun Commands")
@@ -16,7 +16,7 @@ module.exports = {
             .addField("%help-roleplay", "NSFW Commands :smiling_imp: ")
             .addField("%help-mod", "Useful Mod Commands")
             .addField("%help-audio", "Music...")
-            .setFooter("Powered By Ai Hayasaka");
+            .setFooter("Powered By Cat");
         message.channel.send(embed);
     }
 };

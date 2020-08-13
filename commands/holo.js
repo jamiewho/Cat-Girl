@@ -13,10 +13,10 @@ module.exports = {
 
         request({ url: "https://nekos.life/api/v2/img/holo", json: true }, function(error, response, body) {
             let henEmbed = new Discord.RichEmbed()
-                .setColor("#FF00FF")
+                .setColor("#f096ea")
                 .setAuthor("Holo!")
                 .setImage(body.url)
-                .setFooter("Opal X Holo");
+                .setFooter("Powered by Cat");
             message.channel.send(henEmbed);
         });
     }

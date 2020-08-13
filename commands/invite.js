@@ -8,10 +8,10 @@ module.exports = {
 
     execute(bot, message, args) {
         let embed = new Discord.RichEmbed()
-            .setColor("#FF00FF")
+            .setColor("#f096ea")
             .setAuthor("Bot Invite")
             .addField("Link:", "Insert your link")
-            .setFooter("Powered By Ai Hayasaka; " + " Requested by " + message.author.username);
+            .setFooter("Powered By Cat; " + " Requested by " + message.author.username);
         message.channel.send(embed);
     }
 };

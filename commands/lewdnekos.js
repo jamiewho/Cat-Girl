@@ -15,10 +15,10 @@ module.exports = {
             { url: "https://nekos.life/api/v2/img/lewdk", json: true },
             function(error, response, body) {
                 let henEmbed = new Discord.RichEmbed()
-                    .setColor("#FF00FF")
-                    .setAuthor("NEKO NEKO!")
+                    .setColor("#f096ea")
+                    .setAuthor("lewd cat girls uwu")
                     .setImage(body.url)
-                    .setFooter("Powered By Ai Hayasaka");
+                    .setFooter("Powered By Cat");
                 message.channel.send(henEmbed);
             }
         );

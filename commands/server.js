@@ -9,7 +9,7 @@ module.exports = {
     execute(bot, message, args) {
         let icon = message.guild.iconURL;
         let embed = new Discord.RichEmbed()
-            .setColor("FF00FF")
+            .setColor("#f096ea")
             .setAuthor(message.guild.name + " Info's")
             .setThumbnail(icon)
             .addField("Name:", message.guild.name)
@@ -19,7 +19,7 @@ module.exports = {
             .addField("Region:", message.guild.region)
             .addField("Owner:", message.guild.owner)
             .addField("Verified:", message.guild.verified)
-            .setFooter("Powered By Ai Hayasaka");
+            .setFooter("Powered By Cat");
         message.channel.send(embed);
     }
 };

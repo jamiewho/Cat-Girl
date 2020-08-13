@@ -13,10 +13,10 @@ module.exports = {
 
         request({ url: "https://nekos.life/api/v2/img/hentai", json: true }, function(error, response, body) {
                 let henEmbed = new Discord.RichEmbed()
-                    .setColor("#FF00FF")
-                    .setAuthor("Hentai!")
+                    .setColor("#f096ea")
+                    .setAuthor("Hentai")
                     .setImage(body.url)
-                    .setFooter("Powered By Ai Hayasaka");
+                    .setFooter("Powered By Cat");
                 message.channel.send(henEmbed);
             }
         );

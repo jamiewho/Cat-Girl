@@ -15,10 +15,10 @@ module.exports = {
             { url: "https://nekos.life/api/v2/img/femdom", json: true },
             function(error, response, body) {
                 let henEmbed = new Discord.RichEmbed()
-                    .setColor("#FF00FF")
+                    .setColor("#f096ea")
                     .setAuthor("Femdom")
                     .setImage(body.url)
-                    .setFooter("For anarch <3");
+                    .setFooter("Powered by Cat");
                 message.channel.send(henEmbed);
             }
         );

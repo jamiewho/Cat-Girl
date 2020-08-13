@@ -8,13 +8,13 @@ module.exports = {
 
     execute(bot, message, args) {
         let embed = new Discord.RichEmbed()
-            .setColor("#FF00FF")
+            .setColor("#f096ea")
             .setAuthor("Bot Info")
-            .addField("Version", "b5")
-            .addField("Creator", "♡Jamie♡#7381")
+            .addField("Version", "6.0")
+            .addField("Creator", "jamie 𝓵𝓸𝓿𝓮𝓼 𝔂𝓸𝓾#0002")
             .addField("Language", "Discord.JS")
             .addField("Creation Date", "8/4/2019")
-            .setFooter("Powered By Ai Hayasaka");
+            .setFooter("Powered By Cat");
         message.channel.send(embed);
     }
 };

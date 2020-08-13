@@ -8,11 +8,11 @@ module.exports = {
 
     execute(bot, message, args) {
         let embed = new Discord.RichEmbed()
-            .setColor("FF00FF")
+            .setColor("#f096ea")
             .setAuthor("The list of servers what the bot is in!")
             .addField("Server Counter:", bot.guilds.size)
             .addField("Servers:", bot.guilds.array().join("\n"))
-            .setFooter("Powered By Ai Hayasaka");
+            .setFooter("Powered By Cat");
         message.channel.send(embed);
     }
 };

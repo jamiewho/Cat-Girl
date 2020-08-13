@@ -11,13 +11,13 @@ module.exports = {
         if (!user) return message.channel.send("User couldn't be found!");
 
         let embed = new Discord.RichEmbed()
-            .setColor("#FF00FF")
+            .setColor("#f096ea")
             .setAuthor(user.username + "#" + user.discriminator + " Info's")
             .setThumbnail(user.avatarURL)
             .addField("Name:", user.username + "#" + user.discriminator)
             .addField("ID:", user.id)
             .addField("Created", user.createdAt)
-            .setFooter("Powered By Ai Hayasaka");
+            .setFooter("Powered By Cat");
         message.channel.send(embed);
     }
 };

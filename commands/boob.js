@@ -15,12 +15,12 @@ module.exports = {
             { url: "https://nekos.life/api/v2/img/boobs", json: true },
             function(error, response, body) {
                 let henEmbed = new Discord.RichEmbed()
-                    .setColor("#FF00FF")
+                    .setColor("#f096ea")
                     .setAuthor(
                         message.author.username + " is boob playing with " + user.username
                     )
                     .setImage(body.url)
-                    .setFooter("Powered By Ai Hayasaka");
+                    .setFooter("Powered By Cat");
                 message.channel.send(henEmbed);
             }
         );
