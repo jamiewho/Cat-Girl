@@ -1,7 +1,7 @@
 ## Cat
 
 Welcome to the Official Cat Bot!
-Ai Hayasaka is a simple discord bot made with [discordjs/discord.js](https://github.com/discordjs/discord.js) and has many fun features like anime, moderator, and even roleplay commands
+Cat is a simple discord bot made with [discordjs/discord.js](https://github.com/discordjs/discord.js) and has many fun features like anime, moderator, roleplay, and even cat girls!
 
 - I originally coded this in Glitch, so I had to take it off of Glitch and put it on here for you guys to use.
 
