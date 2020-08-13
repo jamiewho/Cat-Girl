@@ -18,13 +18,32 @@ Ai Hayasaka is a simple discord bot made with [discordjs/discord.js](https://git
 
 - Install the packages in `packages.json`
 
-Made by ♡Jamie♡#7381 on Discord
+Made by jamie 𝓵𝓸𝓿𝓮𝓼 𝔂𝓸𝓾#0002 on Discord
 \ ゜ o ゜)ノ
 
 
-### Commands
+### Features
 
-#General
+###General Commands
 - %help - Gives you a link to this
 - %about - Gives you bot info
 - %invite - Gives you invite link for the bot
+
+###Roleplay Commands
+- %kiss
+- %hug
+- %cuddle
+- %feed
+
+### Usage
+
+- Put your own discord bot token in `botsettings.json`
+
+- Put your own discord invite link in `bot.js`
+
+- Install the packages in `packages.json`
+
+Made by jamie 𝓵𝓸𝓿𝓮𝓼 𝔂𝓸𝓾#0002 on Discord
+\ ゜ o ゜)ノ
+
+
