@@ -20,3 +20,11 @@ Ai Hayasaka is a simple discord bot made with [discordjs/discord.js](https://git
 
 Made by ♡Jamie♡#7381 on Discord
 \ ゜ o ゜)ノ
+
+
+### Commands
+
+#General
+- %help - Gives you a link to this
+- %about - Gives you bot info
+- %invite - Gives you invite link for the bot
