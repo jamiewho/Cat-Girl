@@ -16,12 +16,43 @@ Ai Hayasaka is a simple discord bot made with [discordjs/discord.js](https://git
 - %help - Gives you a link to this
 - %about - Gives you bot info
 - %invite - Gives you invite link for the bot
+- %avatar - Gets user avatar
+- %server - Gets server info
+- %user - Gets user info
+- %wallpaper - Generates a wallpaper
+- %rusherhack - Gives you access to the famous 2b2t client rusherhack
 
 ###Roleplay Commands
 - %kiss
 - %hug
 - %cuddle
 - %feed
+- %blowjob
+- %cum
+- %anal
+- %fuck
+- %boob
+
+###NSFW/SFW Commands
+- %neko
+- %lewdnekos
+- %holo
+- %lewdholo
+- %femdom
+- %trap
+- %hentai
+
+###Audio Commands
+- %join
+- %leave
+
+###Mod Commands
+- %ban
+- %kick
+- %mute
+- %clear
+
+
 
 ### Usage
 
