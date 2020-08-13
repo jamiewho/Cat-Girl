@@ -10,18 +10,6 @@ Ai Hayasaka is a simple discord bot made with [discordjs/discord.js](https://git
 - Join the [Discord](https://discord.gg/VgqsyBE) to contact me
 
 
-### Usage
-
-- Put your own discord bot token in `botsettings.json`
-
-- Put your own discord invite link in `bot.js`
-
-- Install the packages in `packages.json`
-
-Made by jamie 𝓵𝓸𝓿𝓮𝓼 𝔂𝓸𝓾#0002 on Discord
-\ ゜ o ゜)ノ
-
-
 ### Features
 
 ###General Commands
