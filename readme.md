@@ -1,4 +1,4 @@
-## Ai-Hayasaka
+## Cat
 
 Welcome to the Official Ai Hayasaka Bot!
 Ai Hayasaka is a simple discord bot made with [discordjs/discord.js](https://github.com/discordjs/discord.js) and has many fun features like anime, moderator, and even roleplay commands
