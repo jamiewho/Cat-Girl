@@ -10,7 +10,7 @@ module.exports = {
         let embed = new Discord.RichEmbed()
             .setColor("#f096ea")
             .setAuthor("Commands!")
-            .addField("", "Basic Bot Commands")
+            .addField("Commands", "[Commands](https://github.com/Miryyy/Ai-Hayasaka/blob/master/readme.md)")
             .setFooter("Powered By Cat");
         message.channel.send(embed);
     }
