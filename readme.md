@@ -12,7 +12,7 @@ Ai Hayasaka is a simple discord bot made with [discordjs/discord.js](https://git
 
 ### Features
 
-###General Commands
+### General Commands
 - %help - Gives you a link to this
 - %about - Gives you bot info
 - %invite - Gives you invite link for the bot
@@ -22,7 +22,7 @@ Ai Hayasaka is a simple discord bot made with [discordjs/discord.js](https://git
 - %wallpaper - Generates a wallpaper
 - %rusherhack - Gives you access to the famous 2b2t client rusherhack
 
-###Roleplay Commands
+### Roleplay Commands
 - %kiss
 - %hug
 - %cuddle
@@ -33,7 +33,7 @@ Ai Hayasaka is a simple discord bot made with [discordjs/discord.js](https://git
 - %fuck
 - %boob
 
-###NSFW/SFW Commands
+### NSFW/SFW Commands
 - %neko
 - %lewdnekos
 - %holo
@@ -42,11 +42,11 @@ Ai Hayasaka is a simple discord bot made with [discordjs/discord.js](https://git
 - %trap
 - %hentai
 
-###Audio Commands
+### Audio Commands
 - %join
 - %leave
 
-###Mod Commands
+### Mod Commands
 - %ban
 - %kick
 - %mute
