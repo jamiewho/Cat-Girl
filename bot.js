@@ -33,12 +33,12 @@ bot.on("guildMemberAdd", function(message) {
     let member = message;
 
     const embed = new Discord.RichEmbed()
-        .setColor("#FF00FF")
+        .setColor("#f096ea")
         .setAuthor("Welcome " + member.user.username + "#" + member.user.discriminator)
         .setDescription(member.user.username + " Has Joined " + message.guild.name)
         .setThumbnail(member.user.avatarURL)
         .addField("Ai Hayasaka's Info", "Type %help")
-        .setFooter("Powered By Ai Hayasaka");
+        .setFooter("Powered By Cat");
     member.guild.channels.find("name", "welcome").send({ embed: embed });
 });
 
