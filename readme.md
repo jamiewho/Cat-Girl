@@ -21,6 +21,7 @@ Ai Hayasaka is a simple discord bot made with [discordjs/discord.js](https://git
 - %user - Gets user info
 - %wallpaper - Generates a wallpaper
 - %rusherhack - Gives you access to the famous 2b2t client rusherhack
+- %list - Shows all the servers what the bot is in
 
 ### Roleplay Commands
 - %kiss
@@ -41,6 +42,7 @@ Ai Hayasaka is a simple discord bot made with [discordjs/discord.js](https://git
 - %femdom
 - %trap
 - %hentai
+- %thigh
 
 ### Audio Commands
 - %join
