@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const request = require('request');
 
 module.exports = {
-    name: 'femdom',
+    name: 'lewdholo',
     description: 'Some command description here.',
     guildOnly: false,
     nsfw: true,
