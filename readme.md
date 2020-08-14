@@ -22,7 +22,7 @@ Cat is a simple discord bot made with [discordjs/discord.js](https://github.com/
 - %server - Gets server info
 - %user - Gets user info
 - %wallpaper - Generates a wallpaper
-- %rusherhack - Gives you access to the famous 2b2t client rusherhack
+- ~~%rusherhack - Gives you access to the famous 2b2t client rusherhack~~ - currently not working idk why
 - %list - Shows all the servers what the bot is in
 
 ### Roleplay Commands
