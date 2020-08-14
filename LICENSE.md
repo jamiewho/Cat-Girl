@@ -1,5 +1,5 @@
-MIT License
+### License
 
-Copyright (c) 2020 Ai Hayasaka Development
+Copyright (c) 2020 Jamie
 
-You have the right to take this api and make your own bot with it. But don't be a complete skid and claim all of the work is yours.
+You can fork the bot if you want for your own bot but PLEASE give me credit for some of it :D
