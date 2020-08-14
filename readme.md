@@ -7,7 +7,9 @@ Cat is a simple discord bot made with [discordjs/discord.js](https://github.com/
 
 - The API used for the anime is from nekos.life.
 
-- Join the [Discord](https://discord.gg/VgqsyBE) to contact me
+- Join the [Discord](https://discord.gg/Ws7vd3H) to contact me
+
+- Invite the bot [Link](https://discordapp.com/oauth2/authorize?client_id=637680631916003349&permissions=8&scope=bot)
 
 
 ### Features
@@ -59,7 +61,7 @@ Cat is a simple discord bot made with [discordjs/discord.js](https://github.com/
 
 
 
-### Usage
+### How to fork/skid the bot
 
 - Put your own discord bot token in `botsettings.json`
 
