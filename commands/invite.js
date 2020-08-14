@@ -10,7 +10,7 @@ module.exports = {
         let embed = new Discord.RichEmbed()
             .setColor("#f096ea")
             .setAuthor("Bot Invite")
-            .addField("Link:", "[Link](https://discordapp.com/oauth2/authorize?client_id=637680631916003349&permissions=8&scope=bot)") # Insert your own invite link if you skid the bot
+            .addField("Link:", "[Link](https://discordapp.com/oauth2/authorize?client_id=637680631916003349&permissions=8&scope=bot)")
             .setFooter("Powered By Cat; " + " Requested by " + message.author.username);
         message.channel.send(embed);
     }
