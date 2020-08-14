@@ -63,9 +63,9 @@ Cat is a simple discord bot made with [discordjs/discord.js](https://github.com/
 
 ### How to fork/skid the bot
 
-- Put your own discord bot token in `botsettings.json`
+- Put your own discord bot token in `settings.json`
 
-- Put your own discord invite link in `bot.js`
+- Put your own discord bot invite link in `invite.js`
 
 - Install the packages in `packages.json`
 
