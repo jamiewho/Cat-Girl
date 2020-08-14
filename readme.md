@@ -73,3 +73,10 @@ Made by jamie 𝓵𝓸𝓿𝓮𝓼 𝔂𝓸𝓾#0002 on Discord
 \ ゜ o ゜)ノ
 
 ### Might need to fix some errors im just too lazy atm to fix it on github
+
+### Credits
+- Jamie - For creating the bot & basic commands
+
+- Amelia - For making the new base of the bot & c;eaning up the code
+
+
