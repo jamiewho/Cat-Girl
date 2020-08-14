@@ -77,6 +77,6 @@ Made by jamie 𝓵𝓸𝓿𝓮𝓼 𝔂𝓸𝓾#0002 on Discord
 ### Credits
 - Jamie - For creating the bot & basic commands
 
-- Amelia - For making the new base of the bot & c;eaning up the code
+- [Amelia](https://github.com/Ameliaaaaaa) - For making the new base of the bot & c;eaning up the code
 
 
