@@ -1,5 +1,5 @@
 module.exports = {
-    name: 'about',
+    name: 'clear',
     description: 'Some command description here.',
     guildOnly: true,
     nsfw: false,
