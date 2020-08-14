@@ -33,16 +33,19 @@ Cat is a simple discord bot made with [discordjs/discord.js](https://github.com/
 - %anal
 - %fuck
 - %boob
+- %pat
+- %slap
+- %fuck
 
 ### NSFW/SFW Commands
 - %neko
 - %lewdnekos
 - %holo
-- %lewdholo
+- %lewdholos
 - %femdom
 - %trap
 - %hentai
-- %thigh
+- ~~%thigh~~ - not working atm
 
 ### Audio Commands
 - %join
