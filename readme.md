@@ -48,6 +48,7 @@ Cat is a simple discord bot made with [discordjs/discord.js](https://github.com/
 - %trap
 - %hentai
 - ~~%thigh~~ - not working atm
+- %foxgirl
 
 ### Audio Commands
 - %join
