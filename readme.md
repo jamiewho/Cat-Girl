@@ -70,7 +70,7 @@ Cat is a simple discord bot made with [discordjs/discord.js](https://github.com/
 
 - Install the packages in `packages.json`
 
-Made by jamie 𝓵𝓸𝓿𝓮𝓼 𝔂𝓸𝓾#0002 on Discord
+Made by cutie#7777 on Discord
 \ ゜ o ゜)ノ
 
 
