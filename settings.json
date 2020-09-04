@@ -1,6 +1,6 @@
 {
-  "Token": process.env.TOKEN,
+  "Token": INSERT YOUR OWN BOT TOKEN,
   "Prefix": "%",
   "Streaming": true,
-  "Activity": "Noels Sister - Type %help"
+  "Activity": "cat girls - Type %help"
 }
