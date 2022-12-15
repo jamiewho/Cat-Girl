@@ -1,5 +1,7 @@
 ## Cat
 
+**thanks to many discord updates the bot no longer works and im too lazy to update this so the project is read only now :D**
+
 Welcome to the Official Cat Bot!
 Cat is a simple discord bot made with [discordjs/discord.js](https://github.com/discordjs/discord.js) and has many fun features like anime, moderator, roleplay, and even cat girls!
 
